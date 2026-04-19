@@ -1,0 +1,6 @@
+# Gowin build output
+impl/
+
+# Temporära filer
+*.log
+*.tmp
